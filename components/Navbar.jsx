@@ -22,7 +22,7 @@ const Navbar = () => {
                     <li className={styles.listItem}>Products</li>
                     <li className={styles.listItem}>Menu</li>
                     {/* <Image src="/img/logo.png" alt="" width="160px" height="69px"  /> */}
-                    <li className={styles.listItem} className={styles.logo} >Italiano Pizzeria</li>
+                    <li className={styles.logo} >Italiano Pizzeria</li>
                     <li className={styles.listItem}>Events</li>
                     <li className={styles.listItem}>Blog</li>
                     <li className={styles.listItem}>Contact</li>
